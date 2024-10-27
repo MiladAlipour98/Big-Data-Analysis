@@ -1,4 +1,4 @@
-# Textual Data Analysis and Big Data Analysis Project
+# Textual Data Analysis and Big Data Analysis Project in INA Course
 
 ## Part I: Analysis of Textual Data
 
